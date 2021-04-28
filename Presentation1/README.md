@@ -9,7 +9,7 @@ This Presentation has been submitted as a partial fulfillment for CSE 712 - Symb
 
 **For watching the video demonstration, please click the following thumbnail:**  
 
-[![CSE-712_BRACU_Spring21](https://youtu.be/1RX4rtpRAA8/0.jpg)](https://youtu.be/1RX4rtpRAA8)
+[![CSE-712_BRACU_Spring21/Presentation1](https://youtu.be/1RX4rtpRAA8/0.jpg)](https://youtu.be/1RX4rtpRAA8)
 
 **Or, you can access the video directly by this link:** https://youtu.be/1RX4rtpRAA8
 
