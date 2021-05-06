@@ -22,4 +22,4 @@ Sabbir Ahmed Sibli (ID: 20266027)
 Taniya Sultana Jabin (ID: 20266016)  
 Mashphey Bintey Kabir (ID: 20266005)  
 Course: CSE 712 - Symbolic Machine Learning II  
-Semester: Spring 2021  
+Semester: Spring - 2021  
