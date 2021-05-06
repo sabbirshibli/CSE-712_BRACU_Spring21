@@ -20,6 +20,6 @@ This Presentation has been submitted as a partial fulfillment for CSE 712 - Symb
 **Submission Information:**  
 Sabbir Ahmed Sibli (ID: 20266027)  
 Taniya Sultana Jabin (ID: 20266016)  
-Mashphey Binte Kabir (ID: 20266005)  
+Mashphey Bintey Kabir (ID: 20266005)  
 Course: CSE 712 - Symbolic Machine Learning II  
 Semester: Spring 2021  
