@@ -1,4 +1,4 @@
-# [Group-04_20266027_20266016_20266005] CSE 712 - Paper Presentation  
+# [Group-04_20266027_20266016_20266005] CSE 712 - Idea Paper Presentation  
 Idea Paper Title: Intent Classification from Banglish Facebook Comments: Identifying what Customers Want  
 Author(s): Sabbir Ahmed Sibli, Taniya Sultana, Mashphey Bintey Kabir  
 This Presentation has been submitted as a partial fulfillment for CSE 712 - Symbolic Machine Learning II under MSc. in CSE Program, BRAC University.  
