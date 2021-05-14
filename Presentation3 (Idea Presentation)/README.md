@@ -3,19 +3,19 @@ Idea Paper Title: Intent Classification from Banglish Facebook Comments: Identif
 Author(s): Sabbir Ahmed Sibli, Taniya Sultana, Mashphey Bintey Kabir  
 This Presentation has been submitted as a partial fulfillment for CSE 712 - Symbolic Machine Learning II under MSc. in CSE Program, BRAC University.  
 **In this presentation, We'll cover the following topics:**  
-01. Background Study  
-02. Literature Review  
-03. Proposed Model  
-04. Experimental Results  
-05. Takeaways  
-06. Our Points of View  
-07. Acknowledgements  
+1. Background Study  
+2. Literature Survey  
+3. Our Proposed Model  
+4. Potentials of this Research  
+5. Some Limitations & Future Goals  
+6. Takeaways  
+7. Bibliography  
 
 **For watching the video demonstration, please click the following thumbnail:**  
 
-[![CSE-712_BRACU_Spring21](https://img.youtube.com/vi/-YVaOjDgCVQ/0.jpg)](https://www.youtube.com/watch?v=-YVaOjDgCVQ)
+[![CSE-712_BRACU_Spring21](https://img.youtube.com/vi/CGNEs2OsnZo/0.jpg)](https://www.youtube.com/watch?v=CGNEs2OsnZo)
 
-**Or, you can access the video directly by this link:** https://www.youtube.com/watch?v=-YVaOjDgCVQ  
+**Or, you can access the video directly by this link:** https://www.youtube.com/watch?v=CGNEs2OsnZo  
 
 **Submission Information:**  
 Sabbir Ahmed Sibli (ID: 20266027)  
