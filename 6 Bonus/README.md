@@ -2,7 +2,7 @@
 Hello there,  
 This is Sabbir Ahmed Sibli, currently studying MSc. in Computer Science, BRAC University.  
 This topic has been submitted as a partial fulfillment for CSE 712 - Symbolic Machine Learning II under MSc. in CSE Program, BRAC University.  
-During last couple of weeks, I've done some courses from **YouTube** platform on based on Natural Language Processing. Here are the brief and certificates as the evidences. I found these courses are very helpful to me. As I have no paid membership on several course sites like Coursera etc. I haven't able to done certified courses. I ask for consideration form the course Instructor on this matter.  
+During last couple of weeks, I've done some courses from **YouTube** platform on based on Natural Language Processing. Here are the brief of the courses, practical works and some links of online resources. I found these courses are very helpful to me. As I have no paid membership on several course sites like Coursera etc. I haven't able to done certified courses. I ask for consideration form the course Instructor on this matter.  
   
 ***Courses***  
 **Course 01: Natural Language Processing - Stanford University by Da Jurafsky**  
