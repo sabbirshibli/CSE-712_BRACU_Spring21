@@ -33,7 +33,7 @@ It's a large course and I am still in progress of it. But Already I've learnt to
 3. Vocabulary & Feature Extraction.  
 4. Feature Vectors.  
 5. Logistic Regression for NLP.  
-Course Link: https://www.coursera.org/learn/classification-vector-spaces-in-nlp/lecture/cITmZ/negative-and-positive-frequencies  
+Course Link: https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome  
 
 ***Tutorials & Hands on Experiments***  
 **Practical 01: Natural Language Processing (NLP) Tutorial with Python & NLTK) by freeCodeCamp sponsored by Edureka**  
