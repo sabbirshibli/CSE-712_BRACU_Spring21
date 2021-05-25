@@ -1,32 +1,45 @@
 # Courses done for gaining some extra-credits/bonus marks
 Hello there,  
 This is Sabbir Ahmed Sibli, currently studying MSc. in Computer Science, BRAC University.  
-This topic has been submitted as a partial fulfillment for CSE 707 - Disributed Computing System under MSc. in CSE Program, BRAC University.  
-During last couple of weeks, I've done two courses from **LinkedIn Learning** platform on Cloud Computing and DevOPs. Here are the brief and certificates as the evidences.  
+This topic has been submitted as a partial fulfillment for CSE 712 - Symbolic Machine Learning II under MSc. in CSE Program, BRAC University.  
+During last couple of weeks, I've done some courses from **YouTube** platform on based on Natural Language Processing. Here are the brief and certificates as the evidences. I found these courses are very helpful to me. As I have no paid membership on several course sites like Coursera etc. I haven't able to done certified courses. I ask for consideration form the course Instructor on this matter.  
   
-**Course 01: Learning Cloud Computing: Core Concepts**  
-From this course, I've learnt-  
-1. What Cloud Computing is.  
-2. Types of Cloud Deployments - Private, Public & Hybrid.  
-3. Major Cloud Types - Software as a Service (SaaS), Infrustructure as a Service (IaaS) & Platform as a Service (PaaS).  
-4. Basics of Migrating Local files to Clouds.  
-5. Parameters of choosing a Cloud Provider.  
-6. Cloud Security Basics.  
-This is to mention that, I've also passed the quizing during this course. Here is the certificate I've achieved from this course,  
-![Cer](https://user-images.githubusercontent.com/32014009/102753585-c4732280-4395-11eb-953b-2d69160a97ee.PNG)  
-Certificate Link: https://drive.google.com/file/d/1AM9BpjRNvWR3RB7AVB29Q3MlsWM057-i/view  
+***Courses***  
+**Course 01: Natural Language Processing - Stanford University by Da Jurafsky**  
+From this course, Majorly I've learnt-  
+1. Basics of Regular Expressions.  
+2. Word Processing using Unix Tools.  
+3. Basics on Noisy Channel and Correction.  
+4. Text Classification algorithms (i.e. Naive Bayes, Linear Classifiers).  
+5. Basics of Sentiment Analysis.  
+6. Feature Extraction Procedures.  
+Course Link - https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv  
   
-**Course 02: Learning Docker**  
-Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. From this course, I've learnt-  
-1. What Docker is.  
-2. Setting up Docker (I used Docker desktop for windows and use that from CMD).  
-3. Creating multiple containers, exporting containers as an individual Image.  
-4. About Docker Registers, Image & Container Process IDs.
-5. Networking with Docker (Container to Container connection one as host and another as client.)  
-6. Processes and CGroup maintanance using Docker Images.  
-This is to mention that, I've also passed the quizing during this course. Here is the certificate I've achieved from this course,  
-![Cer_Learning_Docker](https://user-images.githubusercontent.com/32014009/102754479-40ba3580-4397-11eb-9a4e-ada97f68a2b1.PNG)  
-Certificate Link: https://drive.google.com/file/d/1LQTFUoU6VL6OAeS61SSyTB0gr-sEWZRV/view
+**Course 02: Natural Language Processing - University of Michigan by Dragomir Radev, Ph.D**  
+From this course, Majorly I've learnt-  
+1. Basics of Linguistic Intuitions for Natural Language Processing (Text processing, human to human interaction, grammer, Morphology & Lexicons etc.).  
+2. About NACLO (A Competition in Linguistics).  
+3. Language Pre Processing (Tokenization, Normalization, Stemming, Morphological Analysis, Capitalization, Word Extraction etc.).  
+4. Feature Extraction (Thesaurus-based word similarity methods, The Vector Space Model, Dimensionality Reduction etc.).
+5. Parsing, Prepositional Phrase processing.  
+6. Classification Algorithms (Basic Probabilities, Bayes Theorem etc.).  
+7. Language Modeling.
+Course Link - https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR
+
+***Tutorials & Hands on Experiments***  
+**Practical 01: Natural Language Processing (NLP) Tutorial with Python & NLTK) by freeCodeCamp sponsored by Edureka**  
+Outcome: From this video tutorial, I've learnt using Python NLTK library tool for Text Tokenizing (Bigrams, Trigrams, Ngrams), Normalizing (Stemming), Lemmatization, StopWords, Parts of Speech Processing, Named Entity Recognition, Chunking etc. (Link: https://www.youtube.com/watch?v=X2vAabgKiuM)  
+
+**Practical 02: Naive Bayes Classifier in Python by Edureka**  
+Outcome: Basic overview of Naive Bayes Classifier (Gaussian, Multinomial & Bernoulli) & A Project named "PIMA Diabetics Test Prediction" (Link: https://www.youtube.com/watch?v=vz_xuxYS2PM&t=1486s)  
+
+**Practical 03: Naive Bayes Classifier With Example by Simplilearn**
+Outcome: Basics of Naive Bayes Classifier & A Project named "Use Case - Text Classification for News Websites" (Link: https://www.youtube.com/watch?v=l3dZ6ZNFjo0)    
+
+**Some Articles that helped me throughout the NLP Journey (Still going)**  
+1. What is Natural Language Processing? An NLP Definition and Tutorial for Beginners by freeCodeCamp.org (Link: https://www.freecodecamp.org/news/what-is-natural-language-processing-an-nlp-definition-and-tutorial-for-beginners/)  
+2. Your Guide to Natural Language Processing (NLP) by Diego Lopez on Data Science Central (Link: https://www.datasciencecentral.com/profiles/blogs/your-guide-to-natural-language-processing-nlp)  
+3. Python NLTK Tools for Natural Language Processing (NLP) by Pansop (Link: https://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)  
 
 **Submission Information:**  
 Sabbir Ahmed Sibli  
