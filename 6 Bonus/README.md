@@ -23,8 +23,17 @@ From this course, Majorly I've learnt-
 4. Feature Extraction (Thesaurus-based word similarity methods, The Vector Space Model, Dimensionality Reduction etc.).
 5. Parsing, Prepositional Phrase processing.  
 6. Classification Algorithms (Basic Probabilities, Bayes Theorem etc.).  
-7. Language Modeling.
-Course Link - https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR
+7. Language Modeling.  
+Course Link - https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR  
+
+**Course 03: Natural Language Processing with Classification and Vector Spaces by DeepLearning.AI & Coursera (Ongoing)**  
+It's a large course and I am still in progress of it. But Already I've learnt topics from this course such as-  
+1. Supervised Machine Learning.  
+2. Sentiment Analysis.  
+3. Vocabulary & Feature Extraction.  
+4. Feature Vectors.  
+5. Logistic Regression for NLP.  
+Course Link: https://www.coursera.org/learn/classification-vector-spaces-in-nlp/lecture/cITmZ/negative-and-positive-frequencies  
 
 ***Tutorials & Hands on Experiments***  
 **Practical 01: Natural Language Processing (NLP) Tutorial with Python & NLTK) by freeCodeCamp sponsored by Edureka**  
